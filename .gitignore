@@ -1,0 +1,4 @@
+.env
+.langtest
+.venv
+.ipynb_checkpoints
